@@ -1,34 +1,33 @@
-##🧠 Machine Learning Practice Repository
+# 🧠 Machine Learning Practice Repository
 Welcome to the Machine Learning Practice Repository – a collection of hands-on Proofs of Concept (POCs) exploring key areas of Machine Learning and Deep Learning. This repository serves as a playground for experimentation, learning, and demonstrating proficiency across various ML domains including classical algorithms, ensemble methods, deep learning, NLP, and transformer-based models like BERT.
 
-##🔍 Key Areas Covered
-#✅ Classical Machine Learning
+# 🔍 Key Areas Covered
+# ✅ Classical Machine Learning
 Regression & classification models
 Feature engineering techniques
+Model evaluation metrics
 
-#Model evaluation metrics
-
-#🔁 Ensemble Learning
+# 🔁 Ensemble Learning
 Bagging (Random Forests)
 Boosting (XGBoost, LightGBM)
 Voting classifiers and stacking
 
-#🤖 Deep Learning
+# 🤖 Deep Learning
 Neural networks built using TensorFlow/Keras and PyTorch
 CNNs for image classification
 RNNs for sequential data
 
-#💬 Natural Language Processing (NLP)
+# 💬 Natural Language Processing (NLP)
 Text cleaning and preprocessing
 Vectorization techniques (TF-IDF, Word2Vec, GloVe)
 Basic sentiment analysis & classification tasks
 
-#🧠 Transformers & BERT
+# 🧠 Transformers & BERT
 Fine-tuning BERT for text classification
 Sentence similarity and semantic search
 Using HuggingFace Transformers
 
-#📦 Dependencies
+# 📦 Dependencies
 Make sure to install the required packages using:
 
 bash
