@@ -77,10 +77,5 @@ Sharing knowledge and reusable templates
 📌 Contributing
 Contributions, ideas, and issues are welcome! Feel free to fork the repo and create a pull request.
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 📬 Contact
-Feel free to connect with me on LinkedIn or reach out via email@example.com for any queries, feedback, or collaborations!
-
-Let me know if you'd like a version with badges (e.g., build status, license, tools used) or a prettier format using emojis and links!
+Feel free to connect with me on LinkedIn or reach out via rakshitsrivastava0404@gmail.com for any queries, feedback, or collaborations!
